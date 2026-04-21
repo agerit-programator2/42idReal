@@ -1,0 +1,62 @@
+# ---------- Delphi build artifacts ----------
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.so
+*.apk
+*.drc
+*.map
+*.dres
+*.rsm
+*.tds
+*.dcu
+*.dcuil
+*.hpp
+*.obj
+*.o
+*.a
+*.lib
+
+# IDE files
+*.local
+*.identcache
+*.projdata
+*.tvsconfig
+*.stat
+*.skincfg
+*.~*
+*.bak
+*.dsk
+
+# Build output dirs
+Win32/
+Win64/
+OSX/
+OSXARM64/
+OSX64/
+OSX32/
+Android/
+Android64/
+Linux64/
+iOSDevice/
+iOSDevice32/
+iOSDevice64/
+iOSSimulator/
+iOSSimARM64/
+Release/
+Debug/
+__history/
+__recovery/
+__astcache/
+modules/
+
+# Local config with secrets
+idreal.ini
+idRealSample.ini
+*.local.ini
+
+# OS
+Thumbs.db
+.DS_Store
