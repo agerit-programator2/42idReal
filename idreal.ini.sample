@@ -1,0 +1,11 @@
+; Zkopírujte tento soubor vedle idRealSample.exe jako idreal.ini
+; a upravte podle vašeho prostředí.
+
+[Database]
+Server=127.0.0.1
+Port=3306
+Database=idreal_demo
+User=root
+Password=
+; Cesta k libmariadb.dll / libmysql.dll (nechte prázdné, pokud je v PATH).
+VendorLib=
